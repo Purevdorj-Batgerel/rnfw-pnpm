@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="7faa8f74-c5f5-4c3b-a08d-920fe10d3c0b"
+    Name="0f7f490b-1d13-4547-8322-c90c486cb2d3"
     Publisher="CN=purve"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="7faa8f74-c5f5-4c3b-a08d-920fe10d3c0b" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="0f7f490b-1d13-4547-8322-c90c486cb2d3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>rnfw</DisplayName>
