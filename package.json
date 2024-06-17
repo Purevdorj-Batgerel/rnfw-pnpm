@@ -2,7 +2,10 @@
   "name": "rnfw-pnpm",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "check-dependencies": "rnx-align-deps",
+    "fix-dependencies": "rnx-align-deps --write"
+  },
   "private": true,
   "devDependencies": {
     "@nx/js": "19.3.0",
